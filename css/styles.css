@@ -49,5 +49,26 @@ a {
 .middle-container {
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2.0;
+}
+
+.skills-image-1 {
+  width: 25%;
+  height: auto;
+  float: left;
+  padding: 30px;
+}
+
+.skills-image-2 {
+  width: 25%;
+  height: auto;
+  float: right;
+  padding: 30px;
+}
+
 .bottom-container {
 }
